@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TGS963
-- 👀 I’m interested in coding and making small cool programs
-- 🌱 I’m currently learning react
+- 👀 I’m interested in coding and making cool programs
+- 🌱 I’m currently learning Next.js, Rust
 - 📫 How to reach me ghoshsuvojit2012@gmail.com
 
 <!---
