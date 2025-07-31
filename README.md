@@ -2,6 +2,7 @@ Linux and FOSS enthusiast. Currently building Upscayl.<br><br>A little bit of vi
 
 <details>
   <summary>Expand for more</summary>
+
 # 💻 Tech Stack:
 
 ## Programming Languages
