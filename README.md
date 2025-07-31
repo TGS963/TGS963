@@ -1,4 +1,3 @@
-# 💫 About Me:
 Linux and FOSS enthusiast. Currently building Upscayl.<br><br>A little bit of vibe, a little bit of code.
 
 <details>
